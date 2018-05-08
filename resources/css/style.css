@@ -7,6 +7,11 @@ h1, h2, h3 {
   font-weight: bold;
 }
 
+#top, .designed {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-position: center;
+}
+
 #top, .designed, footer {
   color: White;
 }
