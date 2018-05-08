@@ -20,7 +20,7 @@ h1 {
   font-size: 70px;
 }
 
-.main {
+.main, .footnav {
   font-size: 18px;
 }
 
@@ -42,4 +42,13 @@ p {
 
 footer {
   background-color: Dimgray;
+  text-align: left;
+}
+
+address {
+  display: block;
+}
+
+a {
+  color: White;
 }
